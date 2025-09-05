@@ -1,0 +1,15 @@
+D:\backend-study\ExerciseVariable\ExerciseVariable\bin\Debug\net9.0\ExerciseVariable.exe
+D:\backend-study\ExerciseVariable\ExerciseVariable\bin\Debug\net9.0\ExerciseVariable.deps.json
+D:\backend-study\ExerciseVariable\ExerciseVariable\bin\Debug\net9.0\ExerciseVariable.runtimeconfig.json
+D:\backend-study\ExerciseVariable\ExerciseVariable\bin\Debug\net9.0\ExerciseVariable.dll
+D:\backend-study\ExerciseVariable\ExerciseVariable\bin\Debug\net9.0\ExerciseVariable.pdb
+D:\backend-study\ExerciseVariable\ExerciseVariable\obj\Debug\net9.0\ExerciseVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend-study\ExerciseVariable\ExerciseVariable\obj\Debug\net9.0\ExerciseVariable.AssemblyInfoInputs.cache
+D:\backend-study\ExerciseVariable\ExerciseVariable\obj\Debug\net9.0\ExerciseVariable.AssemblyInfo.cs
+D:\backend-study\ExerciseVariable\ExerciseVariable\obj\Debug\net9.0\ExerciseVariable.csproj.CoreCompileInputs.cache
+D:\backend-study\ExerciseVariable\ExerciseVariable\obj\Debug\net9.0\ExerciseVariable.sourcelink.json
+D:\backend-study\ExerciseVariable\ExerciseVariable\obj\Debug\net9.0\ExerciseVariable.dll
+D:\backend-study\ExerciseVariable\ExerciseVariable\obj\Debug\net9.0\refint\ExerciseVariable.dll
+D:\backend-study\ExerciseVariable\ExerciseVariable\obj\Debug\net9.0\ExerciseVariable.pdb
+D:\backend-study\ExerciseVariable\ExerciseVariable\obj\Debug\net9.0\ExerciseVariable.genruntimeconfig.cache
+D:\backend-study\ExerciseVariable\ExerciseVariable\obj\Debug\net9.0\ref\ExerciseVariable.dll
